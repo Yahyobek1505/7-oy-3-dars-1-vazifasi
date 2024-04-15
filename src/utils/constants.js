@@ -22,7 +22,7 @@ export const categories = [
   {name:'NextJs', icon: Code},
   {name:'Music', icon: MusicNote},
   {name:'Education', icon: School},
-  {name:'Podcast', icon: Home},
+  {name:'Podcast', icon: GraphicEq},
   {name:'Movie', icon: OndemandVideo},
   {name:'Gaming', icon: SportsEsports},
   {name:'Live', icon: LiveTv},
@@ -33,7 +33,7 @@ export const categories = [
   {name:'Gym', icon: FitnessCenter},
   {name:'Crypto', icon: DeveloperModeSharp},
 
-]
+];
 
 export const demoThumbnailUrl = 'https://i.ibb.co/G2L2Gwp/API-Course.png';
 export const demoChannelUrl = '/channel/UCmXmlB4-HJytD7wek0Uo97A';
